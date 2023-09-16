@@ -1,0 +1,66 @@
+[
+    {
+      "image": "https://i.pinimg.com/736x/ec/29/74/ec2974b3e78fcbb2600af2e61c3c7b8d.jpg",
+      "details": "Designed to teach individuals the fundamentals of the C programming language.",
+      "course_name": "Introduction to C Programming",
+      "credit": 3,
+      "price": 200
+    },
+    
+    {
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRd4irGhapEAaIscf7xORD5e6wjX526g6g1vhWell0qo30oJhJmdi6lcqJbT-VE8ILEp6U&usqp=CAU",
+      "details": "Designed to provide students with a comprehensive understanding of the theory and practice of algorithms.",
+      "course_name": "Introduction to Algorithm",
+      "credit": 10,
+      "price": 150
+    },
+    {
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNxEhEwXW7sFqhhgPiZR_oxZD5egcjiex-Dw&usqp=CAU",
+      "details": "This course is particularly valuable for students who want to develop strong programming and problem-solving skills.",
+      "course_name": "Introduction to C++ for DSA",
+      "credit": 4,
+      "price": 250
+    },
+    {
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGvmp673fC5bxPqV6HkyOG1ttR_fDoyUiqHA&usqp=CAU",
+      "details": "The course focuses on teaching students the fundamental concepts, principles, and implementations of data structures",
+      "course_name": "Basic Data Structures",
+      "credit": 3,
+      "price": 300
+    },
+    {
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUqws63eJ4tm_xxU9653Gi1ctCiXvs12s6nA&usqp=CAU",
+      "details": "This course is designed to teach students the fundamental concepts of OOP using the Python programming language.",
+      "course_name": "Introduction to OOP Python",
+      "credit": 3,
+      "price": 250
+    },
+    {
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCP3OajZmqYKAxcES54PPP0a7nagA0H144r0ts_aPZnuT24CQS2MwpPPmAfv8IlLDh_Kk&usqp=CAU",
+      "details": "Comprehensive program that aims to equip students with the knowledge, skills, and necessary methodologies necessary.",
+      "course_name": "Software Engineering",
+      "credit": 2,
+      "price": 200
+    },
+    {
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSmRyfGFnKxl3tqupfSXuTBmuXEWvJ3J8CahJUvpPSK-xVc4ljBARm_C7KGxJYyXo2UHQ&usqp=CAU",
+      "details": "Designed to educate individuals and professionals about cloud computing concepts .",
+      "course_name": "AWS, Cloud Computing",
+      "credit": 7,
+      "price": 200
+    },
+    {
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgDg-nI6c7cBvYskjpT727AwYh5ahf8DUmeXId8Tvc-WfEJL0yBAUkbra8InS6VPASM1M&usqp=CAU",
+      "details": " Designed to teach students the fundamentals of database management and how to work with MySQL. ",
+      "course_name": "Database (MySQL)",
+      "credit": 2,
+      "price": 300
+    },
+    {
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhlSGgfBEL3vyQak5O68W3aOFiE4ygP_lLPQ&usqp=CAU",
+      "details": "A fundamental part of many educational programs, especially in the fields of CS, engineering, mathematics etc.",
+      "course_name": "Problem-Solving Part",
+      "credit": 2,
+      "price": 400
+    }
+  ]
