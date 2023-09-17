@@ -16,7 +16,7 @@
     },
     {
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNxEhEwXW7sFqhhgPiZR_oxZD5egcjiex-Dw&usqp=CAU",
-      "details": "This course is particularly valuable for students who want to develop strong programming and problem-solving skills.",
+      "details": "This course is  valuable for students who want to develop strong programming and problem-solving skills.",
       "course_name": "Introduction to C++ for DSA",
       "credit": 4,
       "price": 250
@@ -58,7 +58,7 @@
     },
     {
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhlSGgfBEL3vyQak5O68W3aOFiE4ygP_lLPQ&usqp=CAU",
-      "details": "A fundamental part of many educational programs, especially in the fields of CS, engineering, mathematics etc.",
+      "details": "A fundamental part of many educational programs such as CS, engineering, mathematics etc.",
       "course_name": "Problem-Solving Part",
       "credit": 2,
       "price": 400
