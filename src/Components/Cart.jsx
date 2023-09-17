@@ -1,7 +1,13 @@
 
-const Cart = ({ cart }) => {
-    console.log(cart);
+const Cart = ({ cart , handleCredit}) => {
+    // console.log(cart);
+    
+     //console.log(handleCredit)
+     const handle= ()=>{
+        console.log(cart);
+     }
     return (
+       
         <div>
 
             {
@@ -24,8 +30,9 @@ const Cart = ({ cart }) => {
                         </div>
                         <h3>price: {cart.credit}hr</h3>
                     </div>
-                    <div  className="text-center bg-blue-500 text-white font-medium mt-3 rounded-lg">
-                    <button>Selected</button>
+                    <div  className="text-center text-white font-medium mt-3 ">
+                    <button className=" w-72 bg-blue-500 rounded-lg" onClick={()=>handleCredit(cart)}>Select</button>
+                    
                     </div>
 
                 </div>
