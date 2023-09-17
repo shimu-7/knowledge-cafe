@@ -25,10 +25,10 @@ const Carts = () => {
 
     // }
     const ToastNotification1 = () => toast("This course is already selected.", {
-        position: toast.POSITION.RIGHT_TOP,
+        position: toast.POSITION.TOP_CENTER,
         autoClose: 5000});
         const ToastNotification2 = () => toast("20 Credit exceeded", {
-            position: toast.POSITION.RIGHT_TOP,
+            position: toast.POSITION.TOP_CENTER,
             autoClose: 5000});
     
 
@@ -61,8 +61,8 @@ const Carts = () => {
     
     return (
         <>
-            <div className="flex mx-1 my-5">
-                <div className="grid grid-cols-3 gap-5">
+            <div className=" flex flex-col lg:flex-row mx-auto my-5">
+                <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-5">
                     {
                         carts.map(cart => <Cart key={cart.course_name} handleCredit={handleCredit} cart={cart}></Cart>)
                     }
